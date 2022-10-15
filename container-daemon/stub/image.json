@@ -1,0 +1,6 @@
+{
+    "Cmd": "./stub/hello",
+    "Hostname": "container",
+    "MaxMem": "100000",
+    "MaxPids": "10" 
+}

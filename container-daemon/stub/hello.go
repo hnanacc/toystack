@@ -11,7 +11,6 @@ func main() {
 	hn, _ := os.Hostname()
 	print("Hostname", hn)
 	print("CurrentProcessId", os.Getpid())
-	print("MaxProcessId", "undefined")
 }
 
 func print(k string, v interface{}) {
