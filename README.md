@@ -1,2 +1,2 @@
-### Implementation of systems from scratch for better understanding.
+### Implementation of systems from scratch for better understanding
 

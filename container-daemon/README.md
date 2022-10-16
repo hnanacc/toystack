@@ -25,6 +25,6 @@ $ sudo ./container-daemon run stub/image.json
     "Cmd": "/path/to/executble",
     "Hostname": "hostname of container(string)",
     "MaxMem": "max memory usage(in bytes, as string)",
-    "MaxPids": "max no. of process allowed(in integer, as string)
+    "MaxPids": "max no. of process allowed(in integer, as string)"
 }
 ```
